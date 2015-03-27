@@ -4,6 +4,6 @@
 
 echo "Running on Ubuntu"
 
-function host_install {
+host_install() {
   echo "[Ubuntu] Installing $1"
 }
