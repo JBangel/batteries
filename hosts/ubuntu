@@ -3,3 +3,7 @@
 # This should normally be run automatically by install.sh when appropriate
 
 echo "Running on Ubuntu"
+
+function host_install {
+  echo "[Ubuntu] Installing $1"
+}
