@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# This should normally be run automatically by install.sh when appropriate
+
+echo "Running on Ubuntu"
